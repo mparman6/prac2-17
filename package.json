@@ -1,0 +1,22 @@
+{
+  "name": "prac2-17",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mparman6/prac2-17.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mparman6/prac2-17/issues"
+  },
+  "homepage": "https://github.com/mparman6/prac2-17#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
